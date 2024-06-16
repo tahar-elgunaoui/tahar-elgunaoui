@@ -7,6 +7,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 46 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -77,5 +79,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tahar-elgunaoui/tahar-elgunaoui/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2024 18:40:38 UTC
+ Last Updated on 16/06/2024 18:41:41 UTC
 <!--END_SECTION:waka-->
