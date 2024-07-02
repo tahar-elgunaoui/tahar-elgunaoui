@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C742%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C745%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 46 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,16 +42,20 @@ Sunday                   37 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: UTC
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SCSS                     39 mins             ████████░░░░░░░░░░░░░░░░░   31.98 % 
+PHP                      39 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
+Twig                     26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+JavaScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+skin-marceau             2 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -69,5 +75,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tahar-elgunaoui/tahar-elgunaoui/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2024 18:42:01 UTC
+ Last Updated on 02/07/2024 18:42:00 UTC
 <!--END_SECTION:waka-->
