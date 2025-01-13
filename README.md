@@ -7,8 +7,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -79,5 +77,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tahar-elgunaoui/tahar-elgunaoui/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2025 18:44:42 UTC
+ Last Updated on 13/01/2025 18:48:12 UTC
 <!--END_SECTION:waka-->
