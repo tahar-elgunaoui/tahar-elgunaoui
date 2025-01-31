@@ -1,11 +1,13 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C206%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C202%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 22 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,5 +79,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tahar-elgunaoui/tahar-elgunaoui/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2025 18:45:47 UTC
+ Last Updated on 31/01/2025 18:46:14 UTC
 <!--END_SECTION:waka-->
