@@ -1,33 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C891%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C904%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1332 commits        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-🌆 Daytime                4540 commits        ███████████████░░░░░░░░░░   61.82 % 
-🌃 Evening                1197 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-🌙 Night                  275 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Casablanca
-
-💬 Programming Languages: 
-PHP                      13 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   38.41 % 
-JavaScript               5 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-HTML                     3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Smarty                   2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-SCSS                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-
-🔥 Editors: 
-VS Code                  35 hrs 8 mins       █████████████████████████   100.00 % 
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I Mostly Code in PHP** 
 
@@ -46,5 +20,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tahar-elgunaoui/tahar-elgunaoui/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2025 18:52:06 UTC
+ Last Updated on 08/05/2025 18:52:45 UTC
 <!--END_SECTION:waka-->
