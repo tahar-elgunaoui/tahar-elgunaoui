@@ -42,20 +42,16 @@ Sunday                   306 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Casablanca
 
 💬 Programming Languages: 
-SCSS                     2 hrs 9 mins        ██████████████████░░░░░░░   71.17 % 
-PHP                      48 mins             ███████░░░░░░░░░░░░░░░░░░   26.82 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bioprojet                2 hrs 9 mins        ██████████████████░░░░░░░   71.17 % 
-retailink                52 mins             ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -75,5 +71,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/tahar-elgunaoui/tahar-elgunaoui/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2025 18:53:56 UTC
+ Last Updated on 14/06/2025 18:52:15 UTC
 <!--END_SECTION:waka-->
